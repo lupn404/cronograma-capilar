@@ -1,13 +1,36 @@
-.title{ 
-    background-color: aqua;  
-    
+body {
+    background-color: rgb(6, 12, 34);
 }
 
-.primeira-linha-tab { 
-    background-color: aqua;
+
+.title {
+    background-color: rgb(8, 15, 41);
+    color: aliceblue;
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+
 }
 
-.tab{ 
-    background-color: rgb(211, 69, 199); 
-    color:aliceblue;
+
+table {
+
+    margin: 40px;
+    padding: 20px;
+}
+
+td {
+    padding: 20px;
+}
+
+.primeira-linha-tab {
+    background-color: rgb(8, 15, 41);
+    color: aliceblue;
+
+}
+
+.tab {
+    background-color: blueviolet;
+    color: aliceblue;
+
 }
